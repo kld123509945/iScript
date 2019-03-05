@@ -17,7 +17,7 @@ import time
 import select
 import signal
 
-API_KEY = 'fuiKNFp9vQFvjLNvx4sUwti4Yb5yGutBN4Xh10LXZhhRKjWlV4'
+API_KEY = 'sGObQXWHdWgoin9wgkT8tt3Db1bfTWTafpI55mq2nGPCgzwj7M'
 
 PID_PATH = '/tmp/tumblr.py.pid'
 
